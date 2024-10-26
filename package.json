@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord z wykorzystaniem discord.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.0"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
